@@ -1,8 +1,9 @@
 <h1 align="center">
-    <b>JOIN DISCORD SERVER https://discord.gg/lanlan PREVIOUS got termed</b>
+    <b>JOIN DISCORD SERVER https://discord.gg/r8ngQ9TCv7</b>
 </h1>
 
 <p align="center">
+- Updated Version
 - 150 stars release premium unlocked token gen<br>
 - 160 release ai hcaptcha solver
 </p>
@@ -10,7 +11,7 @@
 # Discord-Token-Gen
 An auto discord token generator. Auto verifies phone number but not email. Still working on it.
 
-<img src="https://github.com/LanLan69/Discord-Token-Gen/blob/master/%E6%88%AA%E5%B1%8F2022-03-17%2016.28.47.png"/>
+<img src="https://cdn.discordapp.com/banners/985097344880082964/a_68c67431f71f5eab69b82fcfc9388d95.gif?size=512"/>
 
 # How to use
 
@@ -34,7 +35,8 @@ python3 main.py
 __**EZ PROFIT 2k$ / day**__
 
 # CONTACT / Help 
-Discord : LanLan#0001
+Discord : HackerX#8787
+Credits : LanLan#0001
 
 # DISCLAIMER
 This github repo is for **EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS REPO.**
