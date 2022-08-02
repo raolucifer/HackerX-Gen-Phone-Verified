@@ -1,8 +1,4 @@
-"""
-TODO
-1. auto reg
-2. cloud nitro sniping
-"""
+
 import random
 
 import requests
